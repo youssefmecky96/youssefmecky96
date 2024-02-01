@@ -4,7 +4,9 @@
 - 👯 I’m looking to collaborate on healthcare projects, intreseted in everything else though still.
 -  📫 How to reach me: youssef.mecky96@gmail.com
 -  💬 LinkedIn: https://www.linkedin.com/in/youssef-mecky/
--   ⚡ Fun facts about me :As a Data Scientist at Yara International, I apply my machine learning and analytics skills to support the company's digital transformation and sustainable agriculture initiatives. I work with various data sources and platforms, such as AWS, Python, and PostgreSQL, to develop and deploy data-driven solutions that optimize crop production and reduce environmental impact.With a Bachelor of Engineering degree in Networks and Information Technology and two years of experience as a Security Analyst at RSA, I have a strong background in data analysis and cybersecurity. I am also finishing my Master of Science degree in Data Science at the University of Potsdam, where I learn advanced techniques and methods in machine learning, deep learning, natural language processing, and computer vision. I am passionate about learning new technologies and solving complex problems with data. I aspire to contribute to innovative and impactful projects and collaborate effectively with interdisciplinary teams.
+-   ⚡ Fun facts about me :With a Bachelor of Engineering degree in Networks and Information Technology and two years of experience as a Security Analyst at RSA, I have a strong background in data analysis and cybersecurity. I am finishing my Master of Science degree in Data Science at the University of Potsdam, where I learned advanced techniques and methods in machine learning, and data analysis. As a Data Scientist at Yara
+International, I apply my machine learning and analytics skills to support the company's digital transformation and sustainable agriculture initiatives. I aspire to contribute to innovative and impactful
+projects and collaborate effectively with interdisciplinary teams.
 <!--
 **youssefmecky96/youssefmecky96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
