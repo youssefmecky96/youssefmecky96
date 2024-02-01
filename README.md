@@ -1,5 +1,9 @@
 ### Hi there 👋
-
+- 🔭 I’m currently looking for a new job and a personal projects.
+- 🌱 I’m currently taking a course on reinforcement learning.
+- 👯 I’m looking to collaborate on healthcare projects, intreseted in everything else though still.
+-  📫 How to reach me: youssef.mecky96@gmail.com
+-  💬 LinkedIn: https://www.linkedin.com/in/youssef-mecky/
 <!--
 **youssefmecky96/youssefmecky96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
